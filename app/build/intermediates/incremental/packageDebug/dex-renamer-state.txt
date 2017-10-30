@@ -1,0 +1,7 @@
+#Mon Oct 30 16:25:01 ICT 2017
+base.0=D\:\\1147050065\\MenuCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9382af8323114019ce4c1dbe87bb0d998341d787
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\1147050065\\MenuCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c81f739c2c24bff1ee4ec17f7fe9cc5dd35ecb6e\\classes.dex
+base.1=D\:\\1147050065\\MenuCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c81f739c2c24bff1ee4ec17f7fe9cc5dd35ecb6e
+file.0=D\:\\1147050065\\MenuCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9382af8323114019ce4c1dbe87bb0d998341d787\\classes.dex
